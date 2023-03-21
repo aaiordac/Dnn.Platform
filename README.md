@@ -10,7 +10,7 @@ Thousands of free and commercial extensions, apps and skins are available at the
 
 In addition to robust content management, the free, open source DNN Platform includes the following built-in features:
 
-* Single installation with multi-site capability
+* Single installation with multi-site capability  
 * File and folder management
 * Static and dynamic Localization - 6 languages out-of-the-box (English, Dutch, French, German, Italian, and Spanish)
 * Customized web site templates and themes
