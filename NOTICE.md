@@ -8,3 +8,5 @@ DNN Platform is using a few third-party libraries as source code with some modif
 
 ## Third Party Libraries
 All libraries used in DNN Platform have their licenses in the [Licenses folder](https://github.com/dnnsoftware/Dnn.Platform/tree/development/Website/Licenses).
+
+Maybe other T&C here ...
