@@ -22,7 +22,7 @@ In addition to robust content management, the free, open source DNN Platform inc
 * Robust security
 * Administration features like: security roles, protected content, SEO, scheduler, SSL support, taxonomy, site log, and many more.
 
-## Quick Links
+## Quick Links  
 
 * [Contribute](CONTRIBUTING.md)
 * [Build](.github/BUILD.md)
