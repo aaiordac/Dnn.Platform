@@ -22,7 +22,7 @@ In addition to robust content management, the free, open source DNN Platform inc
 * Robust security
 * Administration features like: security roles, protected content, SEO, scheduler, SSL support, taxonomy, site log, and many more.
 
-## Quick Links
+## Quick Links  
 
 * [Contribute](CONTRIBUTING.md)
 * [Build](.github/BUILD.md)
@@ -38,11 +38,11 @@ In addition to robust content management, the free, open source DNN Platform inc
 * [DNN MVPs](https://dnncommunity.org/Community/MVPs/Current-MVPs)
 * [DNN Connect Group on Facebook](https://www.facebook.com/groups/dnnconnect/)
 * [@DNNAwareness on Twitter](https://www.Twitter.com/DNN)
-* [DNN Store](http://store.dnnsoftware.com/)
+* [DNN Store](http://store.dnnsoftware.com/)  
 
 ## How to Contribute
 
-We encourage everyone to contribute.
+We encourage everyone to contribute, including Trilogy and DevFactory or even IgniteTech or Aurea.
 All the details on contributing with Git and on our working methods can be found on the [Contribute Page](CONTRIBUTING.md)
 
 In addition, since DNN is part of the .NET Foundation, we require our contributors to abide by their [Code of Conduct](https://www.dotnetfoundation.org/code-of-conduct) rules and requirements also.
