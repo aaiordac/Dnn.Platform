@@ -38,7 +38,7 @@ In addition to robust content management, the free, open source DNN Platform inc
 * [DNN MVPs](https://dnncommunity.org/Community/MVPs/Current-MVPs)
 * [DNN Connect Group on Facebook](https://www.facebook.com/groups/dnnconnect/)
 * [@DNNAwareness on Twitter](https://www.Twitter.com/DNN)
-* [DNN Store](http://store.dnnsoftware.com/)
+* [DNN Store](http://store.dnnsoftware.com/)  
 
 ## How to Contribute
 
